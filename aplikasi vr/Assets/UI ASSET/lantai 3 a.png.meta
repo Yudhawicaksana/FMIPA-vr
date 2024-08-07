@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 6f5ca0f4b17215149b70c40392ae390b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lantai 3 a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6861
+        width: 5550
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5072b48feeead4eab22e72816dc970
+      internalID: -1986895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_1
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 7263
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65a1f7a1293f446b5e52965dc0059b
+      internalID: -112143362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_2
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 6859
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8354b7ef15a6b3b40aef13b51f1deb0d
+      internalID: 439390368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6837
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38c555dd0bdc324395437aac34899ab
+      internalID: -423015238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 6837
+        width: 1381
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd61869d43a8344d8cefe3871a40d85
+      internalID: 309512812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_5
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 5830
+        width: 812
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747314c3ea9d02846ab9fb03f2ec217c
+      internalID: 1450927236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_6
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 5838
+        width: 738
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4600852d7d9af4286e1ebb1b25534e
+      internalID: 1965674177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_7
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 6532
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02580e081a9b9d439879719b0bee01c
+      internalID: 773731795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_8
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 6551
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3878f5aae90f5f4186b675f122d35cb
+      internalID: 1334120703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_9
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 6565
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11787a987b57bf445a0f50eda6b63eae
+      internalID: 1338452849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_10
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 6572
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96573b5a5a01464438d33fd7715ed48d
+      internalID: 171294976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_11
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 6561
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78fdbc10d6d51b4193ed530de623af4
+      internalID: 1592511539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_12
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 6532
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830b44505521ec4296babddb79ad814
+      internalID: -528022356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_13
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 6557
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ccb6a01e8d4da4aaecdac951698eac
+      internalID: 333061439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_14
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 6565
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b2545fded9974ab94d3836c9ae7fd
+      internalID: 2036560913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_15
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 6572
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16919d4c01e160e4699a9bea3fc1f1fb
+      internalID: 1423275376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_16
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 6558
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5618fcd8a3c3b9418e929ac266a57d1
+      internalID: 690012110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_17
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 6485
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a6bd9b24f7ff43b0b86912f8bbd7d
+      internalID: -1243452137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_18
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 6539
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289708c96d1c3b438f6172529ee3bf3
+      internalID: -1399498452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_20
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 6498
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7afa05496b20d4998aaefe818e670d
+      internalID: 231114041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_21
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 6506
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6ea4548fc3154a878d5c1af776d18
+      internalID: 1409939440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_22
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 6530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f246ef3e526d4cbf893a715a762ee
+      internalID: 986021779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_24
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 6495
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675e2f91924069448906ec4b5fc9735
+      internalID: 1444029630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6485
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b283b72e5d811974dbff0b527523a419
+      internalID: -903948396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 6476
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaebd727c9fac541832f7c66548b65f
+      internalID: 904367523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6465
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb832349727d97a4aac051db9a7f0f1c
+      internalID: 1766141055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_28
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 6409
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9532dc9363744db05722f72dcbed4
+      internalID: -1431033612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6435
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2498b02a6c4f4e74bb01bb137f330c95
+      internalID: -872199908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 6461
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f0d59c4ed05146b8cde652aed539c
+      internalID: -666098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 6441
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf95ed843d14e04dba9d7c5f12c30ef
+      internalID: -664563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_32
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 6437
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3140565b0b4744b5a9c2bfe5381a7
+      internalID: -966145825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_33
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6419
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97015990c4fd5724da8e213d5ae9cc4f
+      internalID: 111943485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 6419
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ade690c4285674aa349f02917110ad
+      internalID: 256995749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6402
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859605746f40c640950f215237c507c
+      internalID: 2064838190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_36
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6419
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e3918d05b2af4883095cdda068763
+      internalID: 137829642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6419
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e80e9d42c7ddc40a832d35d5e5ad06
+      internalID: 877677651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5727
+        width: 807
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550348cbc27efc4b8779cb51ed64e5d
+      internalID: 384085090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_39
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 6347
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a3abef8f6da74eaf546dfeb432ff2
+      internalID: 416544350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_40
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 6308
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c56babcd1fe648a17006b606bea7c
+      internalID: -65926425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_41
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 6284
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc702e257ec56545a019a6da4f9b042
+      internalID: -23579471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6219
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53bf6a076172246954d4bb254b245f
+      internalID: 164836197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_43
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 6221
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3615d237171ae4da54898a898cfbad
+      internalID: -1079713231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_44
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 6219
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea53ce7b6bdf4b498b00e757ed007a3
+      internalID: -579228418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_45
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 6189
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f1255bb44a654ba8350055eb70028
+      internalID: -984205794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_46
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 6154
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fda104cd9c5342b0d91f680970e44
+      internalID: 1312017531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_47
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 6130
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09af380e8d450b4fb43deda0a9437f8
+      internalID: -1832555820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_48
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 6167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68640fd44cf90242a2c970ac5ce0810
+      internalID: 1582800180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_49
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 6062
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc8612e19e090144896a21e2cb45fe4
+      internalID: -1835593752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_50
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 6091
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07297fff7fb6c445a6f032221fab800
+      internalID: 259261827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_51
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 6013
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaeaf1936b599e41a6ecd08eb374abc
+      internalID: -1253263928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_52
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 6036
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7794ffe4bb97c0a49b7c07311b71dc8c
+      internalID: -502973692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_53
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 6012
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82808a9326c266442b2a393be6c78959
+      internalID: -905573634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_54
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 5823
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c045c2d4fcbffa4fb4a3d5f295c38ce
+      internalID: -2044641435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_55
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 5815
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d33e5b4c70b0e44a67948f1bb2c3c4
+      internalID: 1397032407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_56
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 5812
+        width: 89
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f98400df1aca54d9f8ad8be6a4a175
+      internalID: 1858838292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_57
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 5834
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c41bc90b1407c847b5ac4bd5802396a
+      internalID: 2108015927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_58
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 5812
+        width: 155
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e1e8b85efb3d4cae22ef0724c4e88
+      internalID: 552156611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_59
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 5815
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50c87a4770dcf478f090070bb98b82
+      internalID: -174233973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_60
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 5793
+        width: 47
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6271141087406a46bd68b7e246d0238
+      internalID: -6512950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 5726
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba9f1adadcd52488daf293953eb328
+      internalID: 833910467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_62
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 5704
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bcd211101355c409a49ca3d2ccf051
+      internalID: -527759314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_63
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 5704
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc9e49dfaa3914a9e11aa1ceb564c5
+      internalID: -1809755974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_64
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 5551
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd44d0253d9e142b28e17b029200cd
+      internalID: 1878980498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_65
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 5597
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4265e03ec61cb754a9e5951c226cd06a
+      internalID: -415688200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_66
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 4760
+        width: 807
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0583054c33aa429f79a02372c5635
+      internalID: -237112361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_67
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 5532
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663954fae722c574ea0697d7fc0a2ed9
+      internalID: 532087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_68
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 5558
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bf09b5334a414fab4d8009a76e964
+      internalID: 1340669932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_69
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 5551
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25996c04ecfa2aa43acf713867872e63
+      internalID: -1444386499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_70
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 5552
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc32f870eba4a42a8e34d0f9490fcb
+      internalID: -911114776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_71
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 5503
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b9b71b4fe9e545853ab6d4d0e4e2d
+      internalID: -563869245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_72
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 5529
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a551ba0da21bdd543b365173d8061176
+      internalID: 197217762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_73
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 5466
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e1cc22056b814d8d4f903cce2408e
+      internalID: 1657385092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_74
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 5486
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9e14de89a6634fa0a8761d2930297
+      internalID: 713263069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_75
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 5504
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9662f3565816f8c409cd8e5b8d2921f2
+      internalID: -983534248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_76
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5486
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78c573e3b0e4943b35f1d7f71f7b5e
+      internalID: -461161390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_77
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 5418
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709f13ad424ea949bc698789d180c78
+      internalID: 684604817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_78
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 4794
+        width: 805
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65cb021e37170f408719fbbadf6afdd
+      internalID: 1354383011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_79
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 5242
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed772825a04d67941b9129105e3b2eb9
+      internalID: 1808244204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_80
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 5220
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e986df874d0d0b4388e19baccbbc1c5
+      internalID: 1445168335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_81
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 5164
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863338e0ab04c83449091bbe844c05bd
+      internalID: 677916430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_82
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 5111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f15dedd32e75046a8c4511e3e99417
+      internalID: 746020746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_83
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 4749
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fedd576bb4d464598504ff9474b2f5
+      internalID: -477942658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5550
+        height: 4314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57859eafc9533b6489a334cdd1723665
+      internalID: -1743997888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lantai 3 a_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5550
+        height: 4314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b287017945234489b6568755dd793
+      internalID: -1666904011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lantai 3 a_0: -1986895594
+      lantai 3 a_1: -112143362
+      lantai 3 a_10: 171294976
+      lantai 3 a_11: 1592511539
+      lantai 3 a_12: -528022356
+      lantai 3 a_13: 333061439
+      lantai 3 a_14: 2036560913
+      lantai 3 a_15: 1423275376
+      lantai 3 a_16: 690012110
+      lantai 3 a_17: -1243452137
+      lantai 3 a_18: -1399498452
+      lantai 3 a_19: -1666904011
+      lantai 3 a_2: 439390368
+      lantai 3 a_20: 231114041
+      lantai 3 a_21: 1409939440
+      lantai 3 a_22: 986021779
+      lantai 3 a_23: -1139697701
+      lantai 3 a_24: 1444029630
+      lantai 3 a_25: -903948396
+      lantai 3 a_26: 904367523
+      lantai 3 a_27: 1766141055
+      lantai 3 a_28: -1431033612
+      lantai 3 a_29: -872199908
+      lantai 3 a_3: -423015238
+      lantai 3 a_30: -666098400
+      lantai 3 a_31: -664563227
+      lantai 3 a_32: -966145825
+      lantai 3 a_33: 111943485
+      lantai 3 a_34: 256995749
+      lantai 3 a_35: 2064838190
+      lantai 3 a_36: 137829642
+      lantai 3 a_37: 877677651
+      lantai 3 a_38: 384085090
+      lantai 3 a_39: 416544350
+      lantai 3 a_4: 309512812
+      lantai 3 a_40: -65926425
+      lantai 3 a_41: -23579471
+      lantai 3 a_42: 164836197
+      lantai 3 a_43: -1079713231
+      lantai 3 a_44: -579228418
+      lantai 3 a_45: -984205794
+      lantai 3 a_46: 1312017531
+      lantai 3 a_47: -1832555820
+      lantai 3 a_48: 1582800180
+      lantai 3 a_49: -1835593752
+      lantai 3 a_5: 1450927236
+      lantai 3 a_50: 259261827
+      lantai 3 a_51: -1253263928
+      lantai 3 a_52: -502973692
+      lantai 3 a_53: -905573634
+      lantai 3 a_54: -2044641435
+      lantai 3 a_55: 1397032407
+      lantai 3 a_56: 1858838292
+      lantai 3 a_57: 2108015927
+      lantai 3 a_58: 552156611
+      lantai 3 a_59: -174233973
+      lantai 3 a_6: 1965674177
+      lantai 3 a_60: -6512950
+      lantai 3 a_61: 833910467
+      lantai 3 a_62: -527759314
+      lantai 3 a_63: -1809755974
+      lantai 3 a_64: 1878980498
+      lantai 3 a_65: -415688200
+      lantai 3 a_66: -237112361
+      lantai 3 a_67: 532087145
+      lantai 3 a_68: 1340669932
+      lantai 3 a_69: -1444386499
+      lantai 3 a_7: 773731795
+      lantai 3 a_70: -911114776
+      lantai 3 a_71: -563869245
+      lantai 3 a_72: 197217762
+      lantai 3 a_73: 1657385092
+      lantai 3 a_74: 713263069
+      lantai 3 a_75: -983534248
+      lantai 3 a_76: -461161390
+      lantai 3 a_77: 684604817
+      lantai 3 a_78: 1354383011
+      lantai 3 a_79: 1808244204
+      lantai 3 a_8: 1334120703
+      lantai 3 a_80: 1445168335
+      lantai 3 a_81: 677916430
+      lantai 3 a_82: 746020746
+      lantai 3 a_83: -477942658
+      lantai 3 a_84: -1743997888
+      lantai 3 a_9: 1338452849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

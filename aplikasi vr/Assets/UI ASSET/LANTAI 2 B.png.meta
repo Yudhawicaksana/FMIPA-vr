@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 5e7e744924225be45998911874fbaa56
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LANTAI 2 B_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6747
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25f19bc7905c241b1f931e66a474e3
+      internalID: -206689067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6094
+        width: 2139
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff29c0828fba2c4783581f7643f6401
+      internalID: -354547176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6707
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f37d7422baf1c40a75a1dc808deb6c
+      internalID: -1937733028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_4
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 6195
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db942371ef75d747a0bb9f5092fd3b0
+      internalID: 71245122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_5
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 6175
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff69628b8c22524a81095138a64fe21
+      internalID: 1072509937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_6
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 6158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d16944fd4884247bd614878ac5b571
+      internalID: -359786669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_7
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 5301
+        width: 2136
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2e6fa83bd55a4bbf16c03fe20fc48
+      internalID: -1864903126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_8
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 5934
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4727d688730634babcda6dc423b72a
+      internalID: -495188066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_9
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 5891
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01163e7509d7041b14abc24d5e2992
+      internalID: 1064303919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5386
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835809260e7c364f8560d677a3e9d62
+      internalID: 1865558740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4895
+        width: 1887
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233e7506555d4f4d8938dac3f2837e6
+      internalID: -1741405914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5372
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28599655706bf014794c067c777dae1f
+      internalID: -440961183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5325
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c589825577dc40902e5cf25a70a89
+      internalID: -677615720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5264
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f7cb42aafd80438d091f9dfa67113
+      internalID: 1689466117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5257
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d327eaa40fbfb49a11140031bf2ce5
+      internalID: 1623428972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_16
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4041
+        width: 1899
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f275bcb867aa4d889bcebffc43e75
+      internalID: 1297185902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_17
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 4573
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5ff3b130ecf945aed8f295d10e681
+      internalID: -1931039618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_18
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 4478
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432c5fe565be984bae80f32b05cd105
+      internalID: 945280585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4227
+        width: 691
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d65a8fa1f048479bba23fa88ab2d0
+      internalID: 734189683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4085
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3b63d17479594485a33d592cbe0d6
+      internalID: 137022241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3763
+        width: 1799
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046a2fb3feacae4990630c4fed74738
+      internalID: 333115315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3956
+        width: 24
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17ca398a45cd044bdad456f1a8fa45
+      internalID: 342388566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3882
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea4d7b88a5b6c479d71f21529c0303
+      internalID: 111310146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3756
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6970daf3a0117964cb7e691f9a2d5974
+      internalID: 2058701937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3760
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23459575c4b44d74f8c2626bfa5e3de9
+      internalID: 671905954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_26
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3760
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f906a6de76af479336f7885988380
+      internalID: -968729452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_27
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3756
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6409f340519c4341b71ee746c66db3e
+      internalID: -1878326692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_28
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 3516
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94eef5e1c1b95e40aa40f03e7095a17
+      internalID: -938816026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_29
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 3536
+        width: 782
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb221a046ca6d040bd29e05ee8e3628
+      internalID: -2125055463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_30
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 3533
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f789b06148fe24e98c37677499b598
+      internalID: -648660410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_31
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3089
+        width: 1776
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6f6f46bc1f864eadbf14c76b84883
+      internalID: -1439959429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_32
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 3313
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5313caa4790936d4aa34819bceaab44b
+      internalID: 818147352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3126
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69c1ea2e42536448869cf3c899dc459
+      internalID: -988557950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3130
+        width: 692
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320254fb62af06478c055c22ca0f3ef
+      internalID: -260443436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3130
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35f9d91cfdff1449ccdb948baf4c2a
+      internalID: 282514690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3109
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d124a1315834b74ab414296c854a67f
+      internalID: -250925276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2679
+        width: 1839
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50d54f928f209c4a89d3a9e2f9b82dc
+      internalID: -962365474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_38
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3065
+        width: 732
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975de5652e6d0c40a2bb962ad1ec091
+      internalID: -47277224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2659
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83974bacfd297de42a109c40eeb9ffc9
+      internalID: 658479691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2649
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d98a953c0e64c4ebc8a0ae33fd42b9
+      internalID: -1029679698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_41
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2659
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca03b934c792ac45a8506aa62862112
+      internalID: 1002255561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_42
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 2642
+        width: 732
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322be34839803d643a7bed88c17fcfc7
+      internalID: -827241049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_43
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 2198
+        width: 1766
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781dbcb269301464c80aeccb38dd8ac2
+      internalID: -548792542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_44
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 2622
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aee25f435b7da4ba9a93f1de3711d9
+      internalID: 793018443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_45
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 2622
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec4f92f32b049c4fa9203e3c061c93e
+      internalID: -811549659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_46
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2418
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c549e7c5941d144ab0b4bab80dc5f87
+      internalID: 1403581102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_47
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 2374
+        width: 23
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e871712aa2eee745a7e5e55d9cdc31e
+      internalID: 887512255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 1855
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0de334cacb42a459802ae0a780044e
+      internalID: 120703430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_49
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 2182
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec9742ddcc5c0469b2065a1fc328d0
+      internalID: -556670833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_50
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2171
+        width: 732
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96187ad860247c4fa8a69f3fc3305c2
+      internalID: -951640406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_51
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 2171
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463dce43aa840d443a75e114c05d3bcd
+      internalID: 1796521933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_52
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1230
+        width: 1914
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b68fe2f7070dde4f824edfdb9480caf
+      internalID: 825493749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_53
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 1443
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10559b583f0242444939517222dbcba9
+      internalID: 2071969896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_54
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1341
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40485dd813aec534cb27f518899caf5f
+      internalID: 1782688577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 833
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5309ac2d6cd3041a66eb5c63711f90
+      internalID: 1509634517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 498
+        width: 2092
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760614b3aef7c749aa3caeec780cb77
+      internalID: -1285596044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_57
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 833
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bddddc67954254ba412035083362da
+      internalID: -811142583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d2e6a05e4b5c4b8ae2632ebf9e2db
+      internalID: -489902047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_59
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 0
+        width: 2107
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892fa97d4549a34b8456bfbcd24f91e
+      internalID: 1951714369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 732
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd59a57f13e0b741b387e79ab8d79d8
+      internalID: 1275513619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LANTAI 2 B_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35b826894f75c479d87633669e8eb8
+      internalID: -1113136835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LANTAI 2 B_0: -206689067
+      LANTAI 2 B_1: -354547176
+      LANTAI 2 B_10: 1865558740
+      LANTAI 2 B_11: -1741405914
+      LANTAI 2 B_12: -440961183
+      LANTAI 2 B_13: -677615720
+      LANTAI 2 B_14: 1689466117
+      LANTAI 2 B_15: 1623428972
+      LANTAI 2 B_16: 1297185902
+      LANTAI 2 B_17: -1931039618
+      LANTAI 2 B_18: 945280585
+      LANTAI 2 B_19: 734189683
+      LANTAI 2 B_2: 1993660066
+      LANTAI 2 B_20: 137022241
+      LANTAI 2 B_21: 333115315
+      LANTAI 2 B_22: 342388566
+      LANTAI 2 B_23: 111310146
+      LANTAI 2 B_24: 2058701937
+      LANTAI 2 B_25: 671905954
+      LANTAI 2 B_26: -968729452
+      LANTAI 2 B_27: -1878326692
+      LANTAI 2 B_28: -938816026
+      LANTAI 2 B_29: -2125055463
+      LANTAI 2 B_3: -1937733028
+      LANTAI 2 B_30: -648660410
+      LANTAI 2 B_31: -1439959429
+      LANTAI 2 B_32: 818147352
+      LANTAI 2 B_33: -988557950
+      LANTAI 2 B_34: -260443436
+      LANTAI 2 B_35: 282514690
+      LANTAI 2 B_36: -250925276
+      LANTAI 2 B_37: -962365474
+      LANTAI 2 B_38: -47277224
+      LANTAI 2 B_39: 658479691
+      LANTAI 2 B_4: 71245122
+      LANTAI 2 B_40: -1029679698
+      LANTAI 2 B_41: 1002255561
+      LANTAI 2 B_42: -827241049
+      LANTAI 2 B_43: -548792542
+      LANTAI 2 B_44: 793018443
+      LANTAI 2 B_45: -811549659
+      LANTAI 2 B_46: 1403581102
+      LANTAI 2 B_47: 887512255
+      LANTAI 2 B_48: 120703430
+      LANTAI 2 B_49: -556670833
+      LANTAI 2 B_5: 1072509937
+      LANTAI 2 B_50: -951640406
+      LANTAI 2 B_51: 1796521933
+      LANTAI 2 B_52: 825493749
+      LANTAI 2 B_53: 2071969896
+      LANTAI 2 B_54: 1782688577
+      LANTAI 2 B_55: 1509634517
+      LANTAI 2 B_56: -1285596044
+      LANTAI 2 B_57: -811142583
+      LANTAI 2 B_58: -489902047
+      LANTAI 2 B_59: 1951714369
+      LANTAI 2 B_6: -359786669
+      LANTAI 2 B_60: 1275513619
+      LANTAI 2 B_61: -1113136835
+      LANTAI 2 B_62: -1561196745
+      LANTAI 2 B_7: -1864903126
+      LANTAI 2 B_8: -495188066
+      LANTAI 2 B_9: 1064303919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
